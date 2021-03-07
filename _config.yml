@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "9b2n"
-  avatar           : "/assets/images/9n2n_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "\assets\images\9n2n_logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Seoul"
   email            :
