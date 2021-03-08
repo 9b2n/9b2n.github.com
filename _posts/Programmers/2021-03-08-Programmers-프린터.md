@@ -6,9 +6,7 @@ categories: CodingTest
 
 
 
-### 🔒 **문제** 
-
-> #### [Programmers : 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+### 🔒 [Programmers : 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
 
 
 

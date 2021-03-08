@@ -4,14 +4,18 @@ date: 2021-03-08 15:03:00 -0400
 categories: CodingTest
 ---
 
-### Programmers : 다리를 지나는 트럭
-<center><img alt="Bertrand's postulate" src="https://res.cloudinary.com/code9b2n/image/upload/v1615183215/programmers/pro-%EB%8B%A4%EB%A6%AC%EB%A5%BC_%EC%A7%80%EB%82%98%EB%8A%94_%ED%8A%B8%EB%9F%AD.png"></center>
+### 🔒 [Programmers : 다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+
 
 이 문제를 보고 **현재 다리 상황을 나타내는 큐**와 **대기 중인 트럭 상황을 나타내는 큐**가 필요하다고 생각했다. 
 
 그래서 파라미터로 전달되는 truck_weights를 deque로 바꿔주고, 현재 다리 상황을 나타내는 큐인 bridge를 다리의 길이 만큼 0으로 초기화 시켜주었다.
 
 bridge는 1초마다 하나 씩 밀리는 형태가 되고 이를 이용하여 문제를 풀었다.
+
+
+
+### 🔑 코드
 
 ```python
 from collections import deque

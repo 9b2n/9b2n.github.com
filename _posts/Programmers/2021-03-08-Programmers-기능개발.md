@@ -4,8 +4,8 @@ date: 2021-03-08 22:16:00 -0400
 categories: CodingTest
 ---
 
-### Programmers : 기능개발
-<center><img alt="Bertrand's postulate" src="https://res.cloudinary.com/code9b2n/image/upload/v1615209364/programmers/pro-%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.png"></center>
+### 🔒 [Programmers : 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+
 
 progresses 리스트를 앞에서부터 순회하면 되는 문제이다.
 
@@ -16,6 +16,8 @@ progresses 리스트를 앞에서부터 순회하면 되는 문제이다.
 이 작업을 리스트의 원소 수 만큼 반복하면 끝이다.
 
 
+
+### 🔑 코드
 
 ```python
 from math import ceil

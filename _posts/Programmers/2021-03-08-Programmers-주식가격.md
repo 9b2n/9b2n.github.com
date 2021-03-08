@@ -4,12 +4,16 @@ date: 2021-03-08 15:08:00 -0400
 categories: CodingTest
 ---
 
-### Programmers : 주식가격
-<center><img alt="Bertrand's postulate" src="https://res.cloudinary.com/code9b2n/image/upload/v1615185031/programmers/pro-%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.png"></center>
+### 🔒 [Programmers : 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
+
 
 이 문제는 현재 인덱스를 기준으로 다음 인덱스부터 훑어서 현재 값보다 작은 값이 나타나면 그 값의 인덱스에 현재 인덱스를 빼주면 되는 간단한 문제이다.
 
 나는 거꾸로 prices 리스트의 끝부분부터 탐색을 시작했다.
+
+
+
+### 🔑 코드
 
 ```python
 from collections import deque
