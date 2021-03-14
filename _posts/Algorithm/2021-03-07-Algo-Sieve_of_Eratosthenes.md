@@ -1,5 +1,5 @@
 ---
-title: "에라토스테네스의 체"
+title: "Algorithm - 에라토스테네스의 체"
 date: 2021-03-07 17:35:00 -0400
 categories: Algorithm
 ---
