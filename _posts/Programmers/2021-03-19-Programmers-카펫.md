@@ -1,12 +1,12 @@
 ---
-title: "Programmers : 소수 찾기"
+title: "Programmers : 카펫"
 date: 2021-03-19 15:23:00 -0400
 categories: CodingTest
 ---
 
 
 
-### 🔒 [Programmers : 소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42842)
+### 🔒 [Programmers : 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
 
 <hr>
 
