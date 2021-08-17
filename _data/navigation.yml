@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
   - title: "Categories"
     url: /categories/
-  - title: "Year"
-    url: /year-archive/
   - title: "Tags"
     url: /tags/
+  # - title: "Year"
+  #   url: /year-archive/
